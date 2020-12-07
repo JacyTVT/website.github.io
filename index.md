@@ -4,7 +4,7 @@
 
 ## 个人简介
 
-![cat](C:\Users\远山微暮\Desktop\cat.jpg)Kitty
+![cat](C:\Users\远山微暮\Desktop\cat.jpg)
 
 ## 研究兴趣
 
